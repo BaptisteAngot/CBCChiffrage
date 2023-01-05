@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CBCProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CBCProject_jar</output-path>
+    <root id="archive" name="CBCProject.jar">
+      <element id="module-output" name="CBCProject" />
+    </root>
+  </artifact>
+</component>
